@@ -7,3 +7,15 @@ This is the scripting tutorial.
 
 list of scripts (basic):
 text[]
+separate
+
+examples:
+
+text[scripts]
+scripts
+
+text[github]
+github
+
+separate (makes a horizontal line)
+___________________________________________________________________________________________________________________________________________
